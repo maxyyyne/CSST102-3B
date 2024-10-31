@@ -8,5 +8,4 @@
 
 ### Presentation Development:
 
-[![Introduction to Computer Vision and Image Processing](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-> **Introduction to Computer Vision and Image Processing Part 1**
+Uploading 05-MP1-PPTSlideshow-Ignacio4B.mp4…
